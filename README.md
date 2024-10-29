@@ -1,3 +1,3 @@
 # Negation Game
 
-The monorepo
+Legacy version that used Farcaster as a back-end
